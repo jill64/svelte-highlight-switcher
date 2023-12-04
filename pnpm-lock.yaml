@@ -18,8 +18,8 @@ devDependencies:
     specifier: 1.5.0
     version: 1.5.0(@sveltejs/kit@1.27.6)(svelte@4.2.8)
   '@jill64/svelte-dark-theme':
-    specifier: 2.2.5
-    version: 2.2.5(@sveltejs/kit@1.27.6)(svelte@4.2.8)
+    specifier: 2.2.6
+    version: 2.2.6(@sveltejs/kit@1.27.6)(svelte@4.2.8)
   '@playwright/test':
     specifier: 1.40.1
     version: 1.40.1
@@ -607,8 +607,8 @@ packages:
       - svelte
     dev: true
 
-  /@jill64/svelte-dark-theme@2.2.5(@sveltejs/kit@1.27.6)(svelte@4.2.8):
-    resolution: {integrity: sha512-GPS2D06BdOds6Tx3qSd0RHP3UA5ii7XvqIEvAsj2bgPI6UCUCMTerJBqlUghz3oMtwmFfzRb2OuLtmdWg1xUww==}
+  /@jill64/svelte-dark-theme@2.2.6(@sveltejs/kit@1.27.6)(svelte@4.2.8):
+    resolution: {integrity: sha512-bl4w7YIhPeu655qu/VzBWNF/t7vNzFZ2ND0q3uqgyX8ebNlxYGZU/6/GxaAKCePRV6g+lolXC+NgtPsGCwx9Kg==}
     peerDependencies:
       '@sveltejs/kit': ^1.0.0
       svelte: ^4.0.0
@@ -616,7 +616,7 @@ packages:
       '@jill64/attempt': 1.1.0
       '@jill64/svelte-device-theme': 1.2.2(svelte@4.2.8)
       '@jill64/svelte-html': 1.0.0(@sveltejs/kit@1.27.6)(svelte@4.2.8)
-      '@jill64/svelte-storage': 0.0.3(@sveltejs/kit@1.27.6)(svelte@4.2.8)
+      '@jill64/svelte-storage': 0.0.4(@sveltejs/kit@1.27.6)(svelte@4.2.8)
       '@sveltejs/kit': 1.27.6(svelte@4.2.8)(vite@5.0.5)
       cookie: 0.6.0
       svelte: 4.2.8
@@ -643,21 +643,21 @@ packages:
       svelte: 4.2.8
     dev: true
 
-  /@jill64/svelte-storage@0.0.3(@sveltejs/kit@1.27.6)(svelte@4.2.8):
-    resolution: {integrity: sha512-nt/kuWb8aHIwL62F/5waYp5GTc8XvEPb/7Fqg0ylQmGvlF8ftGi6iTTzymhL3qYhxlZZR16tgNJvpSJvYSQCPA==}
+  /@jill64/svelte-storage@0.0.4(@sveltejs/kit@1.27.6)(svelte@4.2.8):
+    resolution: {integrity: sha512-7TzTkzaoBkzuEcBAKWdvZzmWfKrkvbsyQj5GMuEjqJ5IBZU1AXwm5CXpEm20WGMpLsXixttMRn4K2iKlKjU+eA==}
     peerDependencies:
       '@sveltejs/kit': ^1.0.0
       svelte: ^4.0.0
     dependencies:
-      '@jill64/typed-storage': 2.0.3
+      '@jill64/typed-storage': 2.0.4
       '@sveltejs/kit': 1.27.6(svelte@4.2.8)(vite@5.0.5)
       svelte: 4.2.8
     dev: true
 
-  /@jill64/typed-storage@2.0.3:
-    resolution: {integrity: sha512-5Ecpi/WmfCqJjMGnop71XYr8+bzmGR+i+BC50K03qsaaIOKU51fZWVw5xCZYoeroolT7heXCOTmHWwz3UosG+w==}
+  /@jill64/typed-storage@2.0.4:
+    resolution: {integrity: sha512-f/2g02ph6m4yWSPMsFl3A7rLrFy3AyrU5OvYKaEw8UHSoE7vZKmIzUzpQ5P59K1djDVTUSPR3qKstn4vHE4zGQ==}
     dependencies:
-      ts-serde: 0.3.1
+      ts-serde: 0.4.0
     dev: true
 
   /@jridgewell/gen-mapping@0.3.3:
@@ -3078,8 +3078,8 @@ packages:
       typescript: 5.3.2
     dev: true
 
-  /ts-serde@0.3.1:
-    resolution: {integrity: sha512-NSooF4gOGl9z36JL5bZKJfq3V59nULoVj8yw1rcH+3UdXKXqELxmrIxQze6EwULxcqc/Z6VRU+JygLql0nzeMQ==}
+  /ts-serde@0.4.0:
+    resolution: {integrity: sha512-ts3qcRaqkfYN9SxMIr9NYAQXSICaZoe5NzJksgJ42NfOCZX2KM10arksw447to5QSfaUS34WhB0bRIjdTRs9qw==}
     dependencies:
       devalue: 4.3.2
     dev: true
