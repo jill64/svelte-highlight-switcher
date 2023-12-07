@@ -42,4 +42,4 @@ npm i svelte-highlight-switcher
 </svelte:head>
 ```
 
-As long as the contents of `svelte-highlight/styles` are secure, there is no risk of XSS.
+As long as the contents of [`svelte-highlight/styles`](https://github.com/metonym/svelte-highlight#svelte-highlight) are secure, there is no risk of XSS.
