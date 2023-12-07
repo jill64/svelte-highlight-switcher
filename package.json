@@ -1,7 +1,7 @@
 {
   "name": "svelte-highlight-switcher",
   "description": "📍 Safe svelte-highlight dynamic style switching",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
@@ -28,8 +28,10 @@
     "access": "public"
   },
   "keywords": [
+    "css",
     "highlight",
     "html",
+    "style",
     "svelte"
   ],
   "prettier": "@jill64/prettier-config",
