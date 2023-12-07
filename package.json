@@ -28,8 +28,10 @@
     "access": "public"
   },
   "keywords": [
+    "css",
     "highlight",
     "html",
+    "style",
     "svelte"
   ],
   "prettier": "@jill64/prettier-config",
