@@ -5,7 +5,12 @@
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
-  "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
+  "author": {
+    "name": "jill64",
+    "email": "143883742+jill64@users.noreply.github.com",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
+  },
   "bugs": "https://github.com/jill64/svelte-highlight-switcher/issues",
   "homepage": "https://github.com/jill64/svelte-highlight-switcher#readme",
   "files": [
@@ -22,7 +27,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jill64/svelte-highlight-switcher.git"
+    "url": "https://github.com/jill64/svelte-highlight-switcher.git",
+    "image": "https://opengraph.githubassets.com/235f43377e0366fdfc19a17817b4dba585791755b2213732d7099dbe55dd698a/jill64/svelte-highlight-switcher"
   },
   "publishConfig": {
     "access": "public"
