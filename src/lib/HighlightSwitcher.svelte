@@ -1,5 +1,5 @@
 <script lang="ts">
-  import * as styles from 'svelte-highlight/styles'
+  import * as styles from 'svelte-highlight/styles/index'
   import type { StyleName } from './types/StyleName'
 
   export let name: StyleName

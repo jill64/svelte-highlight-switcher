@@ -1,9 +1,9 @@
 export const code = /* html */ `
 <script lang="ts">
-  import { HighlightSwitcher, type StyleName } from '$lib'
+  import { HighlightSwitcher, type StyleName } from 'svelte-highlight-switcher'
   import { theme } from '@jill64/svelte-dark-theme'
   import { HighlightSvelte } from 'svelte-highlight'
-  import * as styles from 'svelte-highlight/styles'
+  import * as styles from 'svelte-highlight/styles/index'
 
   let name: StyleName = $theme === 'dark' ? 'githubDark' : 'github'
 </script>
