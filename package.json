@@ -1,7 +1,7 @@
 {
   "name": "svelte-highlight-switcher",
   "description": "📍 Safe svelte-highlight dynamic style switching",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
@@ -14,9 +14,7 @@
   "bugs": "https://github.com/jill64/svelte-highlight-switcher/issues",
   "homepage": "https://github.com/jill64/svelte-highlight-switcher#readme",
   "files": [
-    "dist",
-    "!**/*.test.*",
-    "!**/*.spec.*"
+    "dist"
   ],
   "exports": {
     ".": {
@@ -54,7 +52,7 @@
   },
   "peerDependencies": {
     "svelte": "^4.0.0",
-    "svelte-highlight": "^7.0.0"
+    "svelte-highlight": "^7.4.6"
   },
   "devDependencies": {
     "@jill64/eslint-config-svelte": "1.0.5",
