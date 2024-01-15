@@ -59,7 +59,7 @@
     "@jill64/playwright-config": "2.2.1",
     "@jill64/prettier-config": "1.0.0",
     "@jill64/sentry-sveltekit-cloudflare": "1.7.1",
-    "@jill64/svelte-dark-theme": "2.3.14",
+    "@jill64/svelte-dark-theme": "2.3.15",
     "@playwright/test": "1.40.1",
     "@sveltejs/adapter-cloudflare": "3.0.2",
     "@sveltejs/kit": "2.3.2",
