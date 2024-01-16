@@ -1,7 +1,7 @@
 {
   "name": "svelte-highlight-switcher",
   "description": "📍 Safe svelte-highlight dynamic style switching",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
@@ -61,7 +61,7 @@
     "@jill64/sentry-sveltekit-cloudflare": "1.7.2",
     "@jill64/svelte-dark-theme": "2.3.16",
     "@playwright/test": "1.41.0",
-    "@sveltejs/adapter-cloudflare": "3.0.2",
+    "@sveltejs/adapter-cloudflare": "4.0.1",
     "@sveltejs/kit": "2.3.3",
     "svelte": "4.2.8",
     "svelte-highlight": "7.4.8",
