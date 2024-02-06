@@ -18,8 +18,8 @@ devDependencies:
     specifier: 1.7.4
     version: 1.7.4(@sveltejs/kit@2.5.0)(svelte@4.2.10)
   '@jill64/svelte-dark-theme':
-    specifier: 2.3.25
-    version: 2.3.25(@sveltejs/kit@2.5.0)(svelte@4.2.10)
+    specifier: 2.3.26
+    version: 2.3.26(@sveltejs/kit@2.5.0)(svelte@4.2.10)
   '@playwright/test':
     specifier: 1.41.2
     version: 1.41.2
@@ -385,13 +385,13 @@ packages:
       - svelte
     dev: true
 
-  /@jill64/svelte-dark-theme@2.3.25(@sveltejs/kit@2.5.0)(svelte@4.2.10):
-    resolution: {integrity: sha512-3zGachdae4kIg/xW2Jczc/EZ5edhi/4YT393w1bw/ZlrR5qO+IoCnUbmh4MyxVx7ALHhvVwuitb734pQeUoFWQ==}
+  /@jill64/svelte-dark-theme@2.3.26(@sveltejs/kit@2.5.0)(svelte@4.2.10):
+    resolution: {integrity: sha512-Umi9fvNBo53/W16wszgnRp6q0RQGvki/6BvtyuSknjVtHAUezo1khjem3FZj0khaEa0PQ/NDmSp08Cg8duP4Tw==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
     dependencies:
-      '@jill64/svelte-device-theme': 1.2.11(@sveltejs/kit@2.5.0)(svelte@4.2.10)
+      '@jill64/svelte-device-theme': 1.2.12(@sveltejs/kit@2.5.0)(svelte@4.2.10)
       '@jill64/svelte-html': 1.1.6(@sveltejs/kit@2.5.0)(svelte@4.2.10)
       '@jill64/svelte-storage': 1.1.8(@sveltejs/kit@2.5.0)(svelte@4.2.10)
       '@sveltejs/kit': 2.5.0(@sveltejs/vite-plugin-svelte@3.0.2)(svelte@4.2.10)(vite@5.0.12)
@@ -401,13 +401,13 @@ packages:
       typescanner: 0.5.3
     dev: true
 
-  /@jill64/svelte-device-theme@1.2.11(@sveltejs/kit@2.5.0)(svelte@4.2.10):
-    resolution: {integrity: sha512-YAVc0Nyu1+pt6TqJUhQDAxmdgE1+C/VsZQ9WBtwCuMp6qqJ0w9/xkWRlFkrPTFcoMm18YvOE2/D4UE1FUPvHrw==}
+  /@jill64/svelte-device-theme@1.2.12(@sveltejs/kit@2.5.0)(svelte@4.2.10):
+    resolution: {integrity: sha512-OzgTdDezsmk+3QGP6yTEzppQhZsqSHV4JCqEQyDhbVJ8nFkTql9fDxb5XQb3AEM2QVlZobmcTTZRqq5utivqHQ==}
     peerDependencies:
       svelte: ^4.0.0
     dependencies:
       svelte: 4.2.10
-      svelte-mq-store: 2.2.5(@sveltejs/kit@2.5.0)(svelte@4.2.10)
+      svelte-mq-store: 2.2.6(@sveltejs/kit@2.5.0)(svelte@4.2.10)
     transitivePeerDependencies:
       - '@sveltejs/kit'
     dev: true
@@ -2344,8 +2344,8 @@ packages:
       svelte: 4.2.10
     dev: true
 
-  /svelte-mq-store@2.2.5(@sveltejs/kit@2.5.0)(svelte@4.2.10):
-    resolution: {integrity: sha512-7v7w8gnNrPHhVrXbnHcnWdjlgyp9bh+TBSDdsy5kLab6CBodFU9T8GaGoK0Qhca0rHR1KRHSzZBR/cYjObvMSg==}
+  /svelte-mq-store@2.2.6(@sveltejs/kit@2.5.0)(svelte@4.2.10):
+    resolution: {integrity: sha512-+fZ8lgo97J3LPI6Qk1OY56081pNAidYf5kNw1L6xqzYEaq8J2Frt25JzPSzO8We9q6UwC6czcUb39GWCqDDz7A==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
