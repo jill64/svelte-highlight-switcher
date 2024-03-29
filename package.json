@@ -1,7 +1,7 @@
 {
   "name": "svelte-highlight-switcher",
   "description": "📍 Safe svelte-highlight dynamic style switching",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
@@ -66,7 +66,7 @@
     "svelte": "4.2.12",
     "svelte-highlight": "7.6.0",
     "typescript": "5.4.3",
-    "vite": "5.2.6",
+    "vite": "5.2.7",
     "vitest": "1.4.0",
     "@sveltejs/vite-plugin-svelte": "3.0.2"
   }
