@@ -18,8 +18,8 @@ devDependencies:
     specifier: 1.7.10
     version: 1.7.10(@sveltejs/kit@2.5.5)(svelte@4.2.13)
   '@jill64/svelte-dark-theme':
-    specifier: 2.3.60
-    version: 2.3.60(@sveltejs/kit@2.5.5)(svelte@4.2.13)
+    specifier: 2.3.61
+    version: 2.3.61(@sveltejs/kit@2.5.5)(svelte@4.2.13)
   '@playwright/test':
     specifier: 1.43.0
     version: 1.43.0
@@ -869,8 +869,8 @@ packages:
       - svelte
     dev: true
 
-  /@jill64/svelte-dark-theme@2.3.60(@sveltejs/kit@2.5.5)(svelte@4.2.13):
-    resolution: {integrity: sha512-WUnf1+Fe9nYJVxj4QxysDHTJLX7pD5A78jeFiKHiVpD9ze1qypp8Qh1H880HMEETVjPiqXYLBgewdIBO0h/MFA==}
+  /@jill64/svelte-dark-theme@2.3.61(@sveltejs/kit@2.5.5)(svelte@4.2.13):
+    resolution: {integrity: sha512-C6ttpp3Nvf9r/NO7BtUsH+5XBb74ejjN3t8wU4rBHynVFjIqgFrQQg9uaYPSWUtRRcg3gxlu0jinyBR0II3j7w==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
@@ -880,7 +880,7 @@ packages:
       '@jill64/svelte-storage': 1.1.19(@sveltejs/kit@2.5.5)(svelte@4.2.13)
       '@sveltejs/kit': 2.5.5(@sveltejs/vite-plugin-svelte@3.1.0)(svelte@4.2.13)(vite@5.2.8)
       svelte: 4.2.13
-      svelte-baked-cookie: 1.0.20(@sveltejs/kit@2.5.5)(svelte@4.2.13)
+      svelte-baked-cookie: 1.0.21(@sveltejs/kit@2.5.5)(svelte@4.2.13)
       svelte-feather-icons: 4.1.0
       typescanner: 0.5.3
     dev: true
@@ -3120,8 +3120,8 @@ packages:
     engines: {node: '>= 0.4'}
     dev: true
 
-  /svelte-baked-cookie@1.0.20(@sveltejs/kit@2.5.5)(svelte@4.2.13):
-    resolution: {integrity: sha512-EGMzKHDjQE5zVyh5xRJ0bS7+Pvk76NoOIPjas9Msv9xkGExLpFqEFArJeLxmarB5RuG6snXlj5GKWwkHdbmV1Q==}
+  /svelte-baked-cookie@1.0.21(@sveltejs/kit@2.5.5)(svelte@4.2.13):
+    resolution: {integrity: sha512-RSLo+xYWR84WRF0Luvu03Se+pmo6PF4dessNQC37YF1pce2cf3aOGjDpqIcGRfijRLirUimhI8N/HQGrvH2r2w==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
@@ -3131,7 +3131,7 @@ packages:
       '@types/cookie': 0.6.0
       cookie: 0.6.0
       svelte: 4.2.13
-      ts-serde: 1.0.3
+      ts-serde: 1.0.4
     dev: true
 
   /svelte-eslint-parser@0.34.1(svelte@4.2.13):
@@ -3260,12 +3260,6 @@ packages:
       typescript: '>=4.2.0'
     dependencies:
       typescript: 5.4.5
-    dev: true
-
-  /ts-serde@1.0.3:
-    resolution: {integrity: sha512-/p/FHsZMnwdEzxPwyEnypmgML6ZZZ41fVxwxTehNOXb64c1YKDqn/vkOMnQTuV9wOWcSOI77qsl9Ua8Z9PNhpg==}
-    dependencies:
-      devalue: 4.3.2
     dev: true
 
   /ts-serde@1.0.4:
