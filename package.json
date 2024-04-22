@@ -7,7 +7,7 @@
   "license": "MIT",
   "author": {
     "name": "jill64",
-    "email": "intents.turrets0h@icloud.com",
+    "email": "contact@jill64.dev",
     "url": "https://github.com/jill64",
     "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
   },
@@ -26,7 +26,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/svelte-highlight-switcher.git",
-    "image": "https://opengraph.githubassets.com/0d5cbb3f37430e0f1282f73eb9284fda608509901a7e41625cf710f37fd0455e/jill64/svelte-highlight-switcher"
+    "image": "https://opengraph.githubassets.com/b39aab09d7aae8ec9ef1b90067417f89cbf2e2442d6fa3e8fe090717b6424caa/jill64/svelte-highlight-switcher"
   },
   "publishConfig": {
     "access": "public"
