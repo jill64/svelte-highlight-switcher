@@ -1,7 +1,7 @@
 {
   "name": "svelte-highlight-switcher",
   "description": "📍 Safe svelte-highlight dynamic style switching",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "main": "dist/index.js",
   "type": "module",
   "license": "MIT",
@@ -26,7 +26,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/svelte-highlight-switcher.git",
-    "image": "https://opengraph.githubassets.com/a770f9e712dca32e21cc4f8c35689bae95a9506d7041292e146748b96ec3ede5/jill64/svelte-highlight-switcher"
+    "image": "https://opengraph.githubassets.com/947cc3401af52761291b559cdba2eef5415045db02b4e2d30b7f544b614bdedb/jill64/svelte-highlight-switcher"
   },
   "publishConfig": {
     "access": "public"
@@ -59,7 +59,7 @@
     "@jill64/playwright-config": "2.2.5",
     "@jill64/prettier-config": "1.0.0",
     "@jill64/sentry-sveltekit-cloudflare": "1.7.11",
-    "@jill64/svelte-dark-theme": "2.3.66",
+    "@jill64/svelte-dark-theme": "2.3.67",
     "@playwright/test": "1.43.1",
     "@sveltejs/adapter-cloudflare": "4.4.0",
     "@sveltejs/kit": "2.5.7",
