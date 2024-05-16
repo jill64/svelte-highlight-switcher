@@ -39,8 +39,8 @@ importers:
         specifier: 4.2.17
         version: 4.2.17
       svelte-highlight:
-        specifier: 7.6.0
-        version: 7.6.0
+        specifier: 7.6.1
+        version: 7.6.1
       typescript:
         specifier: 5.4.5
         version: 5.4.5
@@ -1651,8 +1651,8 @@ packages:
   svelte-feather-icons@4.1.0:
     resolution: {integrity: sha512-fcTL4VzEN4BoccQJjKiui0b9DWEsmO6zGpI0tQTJbthRtNrYheoU487zyA1BD8rj9kj6jbKGmGVo7zbSdRvMvA==}
 
-  svelte-highlight@7.6.0:
-    resolution: {integrity: sha512-J9X1d07iMIKZMAqNAhlkjLX/FS+7R2lPrqVul7i+EleVZIOYvBhtx7ES62bc661a70nKNOS05yr9JAvyQPPOIA==}
+  svelte-highlight@7.6.1:
+    resolution: {integrity: sha512-YIpA6LBVpghQndBsbZQLl3ufEje179vQTtC7FH/utbEmUwYecIXsBq4mcwNkCeUuCrpcaF0DkrppWmMp/ZoPfA==}
 
   svelte-hmr@0.16.0:
     resolution: {integrity: sha512-Gyc7cOS3VJzLlfj7wKS0ZnzDVdv3Pn2IuVeJPk9m2skfhcu5bq3wtIZyQGggr7/Iim5rH5cncyQft/kRLupcnA==}
@@ -3475,7 +3475,7 @@ snapshots:
     dependencies:
       svelte: 3.59.2
 
-  svelte-highlight@7.6.0:
+  svelte-highlight@7.6.1:
     dependencies:
       highlight.js: 11.9.0
 
