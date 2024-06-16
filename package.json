@@ -26,7 +26,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/svelte-highlight-switcher.git",
-    "image": "https://opengraph.githubassets.com/8a1cc0f37150358403fd0aa87732b79f3b7442a18c085bfa9231b9dde7366330/jill64/svelte-highlight-switcher"
+    "image": "https://opengraph.githubassets.com/4fd496361557a2411abb4c9756f2ef2133a9a2963fa4fe3afcfd737b5023a08d/jill64/svelte-highlight-switcher"
   },
   "publishConfig": {
     "access": "public"
@@ -62,7 +62,7 @@
     "@jill64/svelte-dark-theme": "2.3.77",
     "@playwright/test": "1.44.1",
     "@sveltejs/adapter-cloudflare": "4.4.0",
-    "@sveltejs/kit": "2.5.15",
+    "@sveltejs/kit": "2.5.16",
     "svelte": "4.2.18",
     "svelte-highlight": "7.6.1",
     "typescript": "5.4.5",
