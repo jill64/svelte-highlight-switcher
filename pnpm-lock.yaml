@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@jill64/eslint-config-svelte':
-        specifier: 1.3.2
-        version: 1.3.2(svelte@4.2.18)(typescript@5.5.3)
+        specifier: 1.3.3
+        version: 1.3.3(svelte@4.2.18)(typescript@5.5.3)
       '@jill64/playwright-config':
         specifier: 2.4.0
         version: 2.4.0(@playwright/test@1.45.2)
@@ -420,8 +420,8 @@ packages:
     resolution: {integrity: sha512-6EwiSjwWYP7pTckG6I5eyFANjPhmPjUX9JRLUSfNPC7FX7zK9gyZAfUEaECL6ALTpGX5AjnBq3C9XmVWPitNpw==}
     deprecated: Use @eslint/object-schema instead
 
-  '@jill64/eslint-config-svelte@1.3.2':
-    resolution: {integrity: sha512-9G4dk/GW+HyIK85G9qsR5KkmZZ+tETWKvOvgnBF0l+z/bGdCpo220eNytyvqPQgjv0gGFLy2/tAhsgm2QxgRjQ==}
+  '@jill64/eslint-config-svelte@1.3.3':
+    resolution: {integrity: sha512-gVkhUmMvVxoZriEeKlN52sakLeGBBSYkj8l7rACisWFVoRXjy4wS+TU4OxgfQMjZr5tVI1vZxr87iyrqsU7pHQ==}
     peerDependencies:
       svelte: ^4.0.0
 
@@ -1590,15 +1590,6 @@ packages:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
 
-  svelte-eslint-parser@0.40.0:
-    resolution: {integrity: sha512-M+v1HhC5T1WKYVxWexUCS4o6oIBS88XKzOZuhl2ew+eGxol7eC21e+VE8TC4rXJ3iT3iXT0qlZsZcpKjVo5/zQ==}
-    engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
-    peerDependencies:
-      svelte: ^3.37.0 || ^4.0.0 || ^5.0.0-next.181
-    peerDependenciesMeta:
-      svelte:
-        optional: true
-
   svelte-eslint-parser@0.41.0:
     resolution: {integrity: sha512-L6f4hOL+AbgfBIB52Z310pg1d2QjRqm7wy3kI1W6hhdhX5bvu7+f0R6w4ykp5HoDdzq+vGhIJmsisaiJDGmVfA==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
@@ -2056,7 +2047,7 @@ snapshots:
 
   '@humanwhocodes/object-schema@2.0.2': {}
 
-  '@jill64/eslint-config-svelte@1.3.2(svelte@4.2.18)(typescript@5.5.3)':
+  '@jill64/eslint-config-svelte@1.3.3(svelte@4.2.18)(typescript@5.5.3)':
     dependencies:
       '@eslint/js': 8.57.0
       '@types/eslint': 8.56.7
@@ -2067,7 +2058,7 @@ snapshots:
       eslint-plugin-deprecation: 3.0.0(eslint@8.57.0)(typescript@5.5.3)
       eslint-plugin-svelte: 2.43.0(eslint@8.57.0)(svelte@4.2.18)
       svelte: 4.2.18
-      svelte-eslint-parser: 0.40.0(svelte@4.2.18)
+      svelte-eslint-parser: 0.41.0(svelte@4.2.18)
     transitivePeerDependencies:
       - supports-color
       - ts-node
@@ -3318,16 +3309,6 @@ snapshots:
       cookie: 0.6.0
       svelte: 4.2.18
       ts-serde: 1.0.7
-
-  svelte-eslint-parser@0.40.0(svelte@4.2.18):
-    dependencies:
-      eslint-scope: 7.2.2
-      eslint-visitor-keys: 3.4.3
-      espree: 9.6.1
-      postcss: 8.4.39
-      postcss-scss: 4.0.9(postcss@8.4.39)
-    optionalDependencies:
-      svelte: 4.2.18
 
   svelte-eslint-parser@0.41.0(svelte@4.2.18):
     dependencies:
