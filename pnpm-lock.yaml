@@ -21,8 +21,8 @@ importers:
         specifier: 1.7.16
         version: 1.7.16(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)
       '@jill64/svelte-dark-theme':
-        specifier: 2.3.90
-        version: 2.3.90(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)
+        specifier: 2.3.91
+        version: 2.3.91(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)
       '@playwright/test':
         specifier: 1.45.3
         version: 1.45.3
@@ -438,8 +438,8 @@ packages:
     peerDependencies:
       '@sveltejs/kit': 1.x || 2.x
 
-  '@jill64/svelte-dark-theme@2.3.90':
-    resolution: {integrity: sha512-uLlLk6Mv3bffKZITTFsPwyLhb1yJXwQHzF6QkvC55sclZQ6VM+USImn8CcpYMwWbUzPd93NYFL8lJqaIb9Sv1g==}
+  '@jill64/svelte-dark-theme@2.3.91':
+    resolution: {integrity: sha512-/XwbtmqoEqvT92rZO5nuSwsVhLxUeZjWjBYpnRrN7Q2gBAtzCuKFYQQl0qDirf7cayE45dUZuBFmvqVK9XbvaQ==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
@@ -455,8 +455,8 @@ packages:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
 
-  '@jill64/svelte-storage@1.2.1':
-    resolution: {integrity: sha512-is9db4uiM+6KZqt53Vy7XgbkzUOE16qAJyXeOrUcjVf/e2zSa+9wZJGHL41H7gNfXYkFGgmndWWXtjHRFeo/Dw==}
+  '@jill64/svelte-storage@1.2.2':
+    resolution: {integrity: sha512-gT5i6SlebUuI5DqehpOCOoKwMo9nV8RZiPxoFRr0DEdKzmwqLcbECAbMhZAwUr8SyuDsn+CfNKedS/tdygcq5w==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
@@ -2105,11 +2105,11 @@ snapshots:
     transitivePeerDependencies:
       - svelte
 
-  '@jill64/svelte-dark-theme@2.3.90(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)':
+  '@jill64/svelte-dark-theme@2.3.91(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)':
     dependencies:
       '@jill64/svelte-device-theme': 1.2.25(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)
       '@jill64/svelte-html': 1.1.19(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)
-      '@jill64/svelte-storage': 1.2.1(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)
+      '@jill64/svelte-storage': 1.2.2(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)
       '@sveltejs/kit': 2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27))
       svelte: 4.2.18
       svelte-baked-cookie: 1.0.31(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)
@@ -2128,7 +2128,7 @@ snapshots:
       '@sveltejs/kit': 2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27))
       svelte: 4.2.18
 
-  '@jill64/svelte-storage@1.2.1(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)':
+  '@jill64/svelte-storage@1.2.2(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)':
     dependencies:
       '@jill64/typed-storage': 3.1.2
       '@sveltejs/kit': 2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27)))(svelte@4.2.18)(vite@5.3.5(@types/node@20.11.27))
