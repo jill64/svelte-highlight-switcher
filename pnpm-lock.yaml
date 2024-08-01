@@ -12,8 +12,8 @@ importers:
         specifier: 1.3.6
         version: 1.3.6(svelte@4.2.18)(typescript@5.5.4)
       '@jill64/playwright-config':
-        specifier: 2.4.0
-        version: 2.4.0(@playwright/test@1.45.3)
+        specifier: 2.4.1
+        version: 2.4.1(@playwright/test@1.45.3)
       '@jill64/prettier-config':
         specifier: 1.0.0
         version: 1.0.0
@@ -425,8 +425,8 @@ packages:
     peerDependencies:
       svelte: ^4.0.0
 
-  '@jill64/playwright-config@2.4.0':
-    resolution: {integrity: sha512-Gwp56wpXL74cLuKRNCLdOHs4QtJL5k1ArJrR4J6/IcoZRLB1+aW3gNwWIyXgrXyR26QMmXPk8hNYF4eSRsB8Tw==}
+  '@jill64/playwright-config@2.4.1':
+    resolution: {integrity: sha512-7GsgcCL8qVIW0jnKwavdhLXaGY0iUcF3ca26LA74C65lyE5xnrHrSHigRcaskawrvzkzg/D4hx9SHX3RravGrg==}
     peerDependencies:
       '@playwright/test': ^1.40.0
 
@@ -2090,7 +2090,7 @@ snapshots:
       - ts-node
       - typescript
 
-  '@jill64/playwright-config@2.4.0(@playwright/test@1.45.3)':
+  '@jill64/playwright-config@2.4.1(@playwright/test@1.45.3)':
     dependencies:
       '@playwright/test': 1.45.3
 
