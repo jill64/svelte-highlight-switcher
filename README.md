@@ -2,11 +2,11 @@
 
 # svelte-highlight-switcher
 
+
 <!----- BEGIN GHOST DOCS BADGES ----->
-
 <a href="https://npmjs.com/package/svelte-highlight-switcher"><img src="https://img.shields.io/npm/v/svelte-highlight-switcher" alt="npm-version" /></a> <a href="https://npmjs.com/package/svelte-highlight-switcher"><img src="https://img.shields.io/npm/l/svelte-highlight-switcher" alt="npm-license" /></a> <a href="https://npmjs.com/package/svelte-highlight-switcher"><img src="https://img.shields.io/npm/dm/svelte-highlight-switcher" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/svelte-highlight-switcher"><img src="https://img.shields.io/bundlephobia/min/svelte-highlight-switcher" alt="npm-min-size" /></a> <a href="https://github.com/jill64/svelte-highlight-switcher/actions/workflows/ci.yml"><img src="https://github.com/jill64/svelte-highlight-switcher/actions/workflows/ci.yml/badge.svg" alt="ci.yml" /></a> <a href="https://svelte-highlight-switcher.jill64.dev"><img src="https://img.shields.io/website?up_message=working&down_message=down&url=https%3A%2F%2Fsvelte-highlight-switcher.jill64.dev" alt="website" /></a>
-
 <!----- END GHOST DOCS BADGES ----->
+
 
 📍 Safe svelte-highlight dynamic style switching
 
