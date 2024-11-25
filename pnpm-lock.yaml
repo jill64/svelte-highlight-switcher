@@ -21,8 +21,8 @@ importers:
         specifier: 1.7.16
         version: 1.7.16(@sveltejs/kit@2.8.3(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)
       '@jill64/svelte-dark-theme':
-        specifier: 2.3.101
-        version: 2.3.101(@sveltejs/kit@2.8.3(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)
+        specifier: 2.3.102
+        version: 2.3.102(@sveltejs/kit@2.8.3(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)
       '@playwright/test':
         specifier: 1.48.2
         version: 1.48.2
@@ -434,8 +434,8 @@ packages:
     peerDependencies:
       '@sveltejs/kit': 1.x || 2.x
 
-  '@jill64/svelte-dark-theme@2.3.101':
-    resolution: {integrity: sha512-8NQ2NFcDQMT1XKdQXarMpTlhXnaA+1PnQk0eTUi/6N5niNYmaUPYckt+39AlVgxQI/WHflYaQInmngZIQ6qn5g==}
+  '@jill64/svelte-dark-theme@2.3.102':
+    resolution: {integrity: sha512-IfRM0tveA1OKI3Eb6rcVu0M4EKulz1//Dg6M2As22xX5gGbIz1Vbgcjb0Or5+b4X6/E/kKwH2vEUQtNEuHybWw==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
@@ -2116,7 +2116,7 @@ snapshots:
     transitivePeerDependencies:
       - svelte
 
-  '@jill64/svelte-dark-theme@2.3.101(@sveltejs/kit@2.8.3(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)':
+  '@jill64/svelte-dark-theme@2.3.102(@sveltejs/kit@2.8.3(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)':
     dependencies:
       '@jill64/svelte-device-theme': 1.2.26(@sveltejs/kit@2.8.3(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)
       '@jill64/svelte-html': 1.1.20(@sveltejs/kit@2.8.3(@sveltejs/vite-plugin-svelte@3.1.2(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)(vite@5.4.11(@types/node@20.11.27)))(svelte@4.2.19)
