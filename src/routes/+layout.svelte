@@ -1,6 +1,8 @@
 <script lang="ts">
   import { FlipButton, ThemeManager } from '@jill64/svelte-dark-theme'
   import GitHubLogo from './GitHubLogo.svelte'
+
+  let { children } = $props()
 </script>
 
 <ThemeManager />
@@ -14,7 +16,7 @@
   <GitHubLogo />
 </header>
 
-<slot />
+{@render children()}
 
 <style>
   :global(body) {
