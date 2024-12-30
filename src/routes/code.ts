@@ -5,7 +5,7 @@ export const code = /* html */ `
   import { HighlightSvelte } from 'svelte-highlight'
   import * as styles from 'svelte-highlight/styles/index'
 
-  let name: StyleName = $theme === 'dark' ? 'githubDark' : 'github'
+  let name: StyleName = $state($theme === 'dark' ? 'githubDark' : 'github')
 </script>
 
 <select bind:value={name}>

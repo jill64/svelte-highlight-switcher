@@ -2,7 +2,7 @@
   import * as styles from 'svelte-highlight/styles/index'
   import type { StyleName } from './types/StyleName'
 
-  export let name: StyleName
+  let { name }: { name: StyleName } = $props()
 </script>
 
 <svelte:head>
