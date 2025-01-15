@@ -3,9 +3,15 @@
   import type { StyleName } from './types/StyleName'
 
   let { name }: { name: StyleName } = $props()
+
+  let css = $state('')
+
+  $effect(() => {
+    css = styles[name]
+  })
 </script>
 
 <svelte:head>
   <!-- eslint-disable-next-line svelte/no-at-html-tags -->
-  {@html styles[name]}
+  {@html css}
 </svelte:head>
