@@ -9,7 +9,7 @@
 </script>
 
 <select bind:value={name}>
-  {#each Object.keys(styles) as value}
+  {#each Object.keys(styles) as value (value)}
     <option {value}>{value}</option>
   {/each}
 </select>
