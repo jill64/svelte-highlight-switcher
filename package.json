@@ -26,7 +26,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/svelte-highlight-switcher.git",
-    "image": "https://opengraph.githubassets.com/db22b2b759b73de42ef559dc6c7d2abf110db6aeb9c396d04848c72008a9a58e/jill64/svelte-highlight-switcher"
+    "image": "https://opengraph.githubassets.com/0ffb83212c30aa47f7844815130f4adc6a440adbb3dc5e4a959925ce00adc953/jill64/svelte-highlight-switcher"
   },
   "publishConfig": {
     "access": "public"
