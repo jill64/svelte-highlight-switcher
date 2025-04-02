@@ -62,7 +62,7 @@
     "@jill64/sentry-sveltekit-cloudflare": "2.0.6",
     "@jill64/svelte-dark-theme": "5.1.4",
     "@playwright/test": "1.51.1",
-    "@sveltejs/adapter-cloudflare": "5.0.3",
+    "@sveltejs/adapter-cloudflare": "7.0.0",
     "@sveltejs/kit": "2.20.2",
     "svelte": "5.25.4",
     "svelte-highlight": "7.8.3",
