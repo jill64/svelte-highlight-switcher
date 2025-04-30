@@ -63,7 +63,7 @@
     "@jill64/svelte-dark-theme": "5.1.7",
     "@playwright/test": "1.52.0",
     "@sveltejs/adapter-cloudflare": "5.0.3",
-    "@sveltejs/kit": "2.20.7",
+    "@sveltejs/kit": "2.20.8",
     "svelte": "5.25.4",
     "svelte-highlight": "7.8.3",
     "typescript": "5.8.3",
